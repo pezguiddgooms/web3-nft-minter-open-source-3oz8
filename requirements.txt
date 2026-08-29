@@ -1,0 +1,4 @@
+# Generated deps — tag b81cb3d7
+rich>=13.7.0,<14
+click>=8.1.0,<9
+requests>=2.31.0,<3
