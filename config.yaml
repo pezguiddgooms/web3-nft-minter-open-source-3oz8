@@ -1,0 +1,17 @@
+# Runtime configuration — 运行时配置 (b81cb3d7956bcb24)
+project:
+  name: web3-nft-minter-open-source-3oz8
+  tag: b81cb3d7956bcb24
+  env: production
+cfg_matrix6mtuu1:
+  enabled: true
+  workers: 2
+cfg_matrixoh95pn:
+  timeout_sec: 23
+  retry: 2
+cfg_kernelss7uru:
+  locale: en_US
+  fallback: true
+logging:
+  level: INFO
+  sink: stdout
